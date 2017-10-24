@@ -1,0 +1,19 @@
+author: mongoose-os
+type: lib
+description: RPC Service for Crontab
+version: 1.0
+
+sources:
+  - src
+filesystem:
+  - fs
+
+tags:
+  - c
+  - rpc
+
+libs:
+  - origin: https://github.com/mongoose-os-libs/crontab
+  - origin: https://github.com/mongoose-os-libs/rpc-common
+
+manifest_version: 2017-09-29
