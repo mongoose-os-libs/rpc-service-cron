@@ -7,7 +7,7 @@
 #include "common/mbuf.h"
 #include "common/mg_str.h"
 #include "common/queue.h"
-#include "frozen/frozen.h"
+#include "frozen.h"
 
 #include "mgos_app.h"
 #include "mgos_crontab.h"
