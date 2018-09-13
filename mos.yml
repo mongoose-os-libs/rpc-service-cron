@@ -11,7 +11,7 @@ filesystem:
 tags:
   - c
   - rpc
-  - docs:rpc-services:Cron
+  - docs:rpc:Service - Cron
 
 libs:
   - origin: https://github.com/mongoose-os-libs/crontab
