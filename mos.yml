@@ -14,7 +14,7 @@ tags:
   - docs:rpc:Service - Cron
 
 libs:
-  - origin: https://github.com/mongoose-os-libs/crontab
-  - origin: https://github.com/mongoose-os-libs/rpc-common
+  - location: https://github.com/mongoose-os-libs/crontab
+  - location: https://github.com/mongoose-os-libs/rpc-common
 
 manifest_version: 2017-09-29
